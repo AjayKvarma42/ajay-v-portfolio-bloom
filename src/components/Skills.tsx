@@ -26,6 +26,12 @@ const Skills = () => {
       skills: ["VS Code", "Postman", "Chrome DevTools", "NPM", "Figma"],
       color: "text-orange-400"
     }
+    {
+      title: "Cloud Tools",
+      icon: Cloud,
+      skills: ["AWS","Ansible", "Terraform ", "jenkins", "Github Actions", "Docker", "Kubernetes"],
+      color: "text-orange-400"
+    }
   ];
 
   return (
