@@ -23,7 +23,7 @@ const Projects = () => {
       title: "Portfolio Website",
       description: "A responsive personal portfolio website showcasing projects, skills, and experience with modern design principles and smooth animations.",
       techStack: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-      github: "#",
+      github: "https://github.com/AjayKvarma42/ajay-v-portfolio-bloom",
       demo: "#",
       featured: false
     }
