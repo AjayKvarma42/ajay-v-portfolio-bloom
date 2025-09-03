@@ -15,7 +15,7 @@ const Projects = () => {
       title: "Task Management App",
       description: "A responsive task management application with drag-and-drop functionality, real-time updates, and collaborative features for team productivity.",
       techStack: ["React", "Firebase", "Tailwind CSS", "React DnD"],
-      github: "#",
+      github: "https://github.com/AjayKvarma42/task-management-app",
       demo: "#",
       featured: true
     },
