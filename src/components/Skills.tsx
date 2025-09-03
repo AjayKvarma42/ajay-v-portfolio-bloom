@@ -25,7 +25,7 @@ const Skills = () => {
       icon: Wrench,
       skills: ["VS Code", "Postman", "Chrome DevTools", "NPM", "Figma"],
       color: "text-orange-400"
-    }
+    },
     {
       title: "Cloud Tools",
       icon: Cloud,
