@@ -15,21 +15,20 @@ const About = () => {
             {/* Profile Image */}
             <div className="flex justify-center lg:justify-start animate-slide-in-left">
               <div className="relative">
-                <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-hero">
+                <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20">
                   <img 
                     src="/images/ajay-portfolio.jpg" 
                     alt="Ajay Kumar Varma - Profile Photo" 
-                    className="w-full h-full object-cover object-top"
+                    className="w-full h-full object-cover object-top" 
                   />
                 </div>
-                <div className="absolute -inset-4 bg-gradient-primary rounded-full opacity-20 blur-xl animate-pulse-glow"></div>
               </div>
             </div>
 
             {/* About Content */}
             <div className="space-y-6 animate-slide-in-right">
               <h3 className="text-2xl md:text-3xl font-bold text-foreground">
-                Passionate Developer & Problem Solver
+                Passionate  Problem Solver
               </h3>
               
               <div className="space-y-4 text-muted-foreground leading-relaxed">
