@@ -1,4 +1,4 @@
-import { Code, Database, Globe, Wrench } from 'lucide-react';
+import { Cloud, Code, Database, Globe, Wrench } from 'lucide-react';
 
 const Skills = () => {
   const skillCategories = [
@@ -11,7 +11,7 @@ const Skills = () => {
     {
       title: "Frameworks & Libraries",
       icon: Globe,
-      skills: ["React.js", "Node.js", "Express.js", "Bootstrap", "Tailwind CSS"],
+      skills: ["React.js", "Node.js", "Express.js", "Bootstrap"],
       color: "text-green-400"
     },
     {
@@ -25,7 +25,7 @@ const Skills = () => {
       icon: Wrench,
       skills: ["VS Code", "Postman", "Chrome DevTools", "NPM", "Figma"],
       color: "text-orange-400"
-    },
+    },  
     {
       title: "Cloud Tools",
       icon: Cloud,
