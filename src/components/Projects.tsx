@@ -20,25 +20,9 @@ const Projects = () => {
       featured: true
     },
     {
-      title: "Weather Dashboard",
-      description: "A modern weather application providing real-time weather data, forecasts, and location-based services with an intuitive user interface.",
-      techStack: ["JavaScript", "Weather API", "Chart.js", "CSS3"],
-      github: "#",
-      demo: "#",
-      featured: false
-    },
-    {
       title: "Portfolio Website",
       description: "A responsive personal portfolio website showcasing projects, skills, and experience with modern design principles and smooth animations.",
       techStack: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-      github: "#",
-      demo: "#",
-      featured: false
-    },
-    {
-      title: "Recipe Finder App",
-      description: "A recipe discovery application that helps users find recipes based on available ingredients with filtering and favorite features.",
-      techStack: ["React", "Recipe API", "Local Storage", "Bootstrap"],
       github: "#",
       demo: "#",
       featured: false

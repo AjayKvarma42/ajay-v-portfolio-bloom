@@ -18,16 +18,16 @@ const Education = () => {
     },
     {
       degree: "Bachelor's Degree",
-      institution: "University/College",
+      institution: "SRK Institute of Technology",
       location: "India",
-      duration: "2020 - 2024",
+      duration: "2022 - 2026",
       description: "Foundational education with focus on problem-solving, analytical thinking, and technical fundamentals.",
       achievements: [
         "Strong academic performance",
         "Active participation in technical events",
         "Leadership roles in college activities"
       ],
-      status: "Completed",
+      status: "In Progress",
       featured: false
     }
   ];

@@ -42,8 +42,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "ajay.kumar.varma@example.com",
-      href: "mailto:ajay.kumar.varma@example.com"
+      value: "ajaykumar2834k@gmail.com",
+      href: "mailto:ajaykumar2834k@gmail.com"
     },
     {
       icon: Linkedin,
@@ -54,8 +54,8 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/ajaykumarvarma",
-      href: "https://github.com"
+      value: "github.com/AjayKvarma42",
+      href: "https://github.com/AjayKvarma42"
     },
     {
       icon: MapPin,
