@@ -17,9 +17,9 @@ const About = () => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-hero">
                   <img 
-                    src="https://github.com/AjayKvarma42/ajay-v-portfolio-bloom/blob/main/src/components/ajaykumarvarma.jpg" 
+                    src="/images/ajay-portfolio.jpg" 
                     alt="Ajay Kumar Varma - Profile Photo" 
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-top"
                   />
                 </div>
                 <div className="absolute -inset-4 bg-gradient-primary rounded-full opacity-20 blur-xl animate-pulse-glow"></div>
